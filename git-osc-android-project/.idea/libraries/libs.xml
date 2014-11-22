@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/git-osc-android/libs/umeng-analytics-v5.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/git-osc-android/libs/jackson-core-asl-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/git-osc-android/libs/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/git-osc-android/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/git-osc-android/libs/jackson-mapper-asl-1.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/git-osc-android/libs/commons-httpclient-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
